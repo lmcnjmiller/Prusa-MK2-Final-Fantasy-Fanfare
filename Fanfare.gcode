@@ -1,6 +1,6 @@
 ;Final Fantasy Fanfare
 ;For Prusa MK2
-; Add to end gcode above the "home X axis" line of the End G-code. 
+; Add above the "home X axis" line of the End G-code. 
 
 G21
 G90
